@@ -13,3 +13,7 @@ If you want to download helm package manually, see [gh-pages branch](https://git
 |Name                   |
 | --------------------- |
 |[GROWI](./charts/growi)|
+
+# Requirements
+
+- eck-operator
